@@ -430,7 +430,7 @@ import React, { useState, useEffect, useCallback, useRef } from "react";
 import axios from "axios";
 import "./index.css";
 
-const BACKEND = "http://localhost:5002";
+const BACKEND = "https://thermalprinter.onrender.com";
 const REFRESH_INTERVAL = 15000;
 
 // ── Print buttons: Kitchen | Bill | All | Auto
