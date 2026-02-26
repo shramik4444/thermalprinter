@@ -13,6 +13,7 @@
     "axios": "^1.13.2",
     "body-parser": "^2.2.1",
     "express": "^5.2.1",
+    "node-thermal-printer": "^4.6.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-thermal-printer": "^0.22.0"
