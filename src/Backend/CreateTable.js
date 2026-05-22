@@ -17,6 +17,8 @@ db.connect((err) => {
 });
 
 
+
+// sdn dsnd sk sdkn sk
 async function createTable() {
   const createTableQuery = `
     CREATE TABLE IF NOT EXISTS items (
